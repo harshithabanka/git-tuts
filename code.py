@@ -1,0 +1,1 @@
+print("mahira banka+hv")
